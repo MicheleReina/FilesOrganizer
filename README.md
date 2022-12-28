@@ -9,20 +9,12 @@ ex txt filename rules:
 | aaa |
 | bbb |
 | ccc |
-| ddd |
-| eee |
-| fff |
-
-
-
-
-
 
 ex files :
 | files name |
 | ------------- | 
 | aaa_57y498 | 
-| 8945735 |
+| bbb-8945735 |
 | ccc hbdgsyihgbv |
 
 
