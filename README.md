@@ -20,7 +20,7 @@ ex files :
 
 The program should rearrange files in that way
 
-| files name | folder to move | folder |
+| files name | move to | folder |
 | ------------- | ------------- |------------- |
 | aaa_57y498 | --> |aaa |
 | 8945735 | --> | bbb |
